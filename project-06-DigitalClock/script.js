@@ -23,7 +23,7 @@ function updateTime(){
 }
 
 
-let a = 12
+let a = 23
 
 let result = a % 12
 console.log(result);

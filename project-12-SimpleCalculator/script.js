@@ -72,10 +72,58 @@ multiply()
 divide()
 
 
+//  pore try korbo abar ektu different vabe korar jonno
+
+//         const num1 = number1.addEventListener("input", ()=> {
+//             const numberOne =  Number(number1.value)
+//             console.log(numberOne);
+            
+         
+           
+//         });
+
+//        const num2 = number2.addEventListener("input", ()=> {
+           
+//          const numberTwo = Number(number2.value)
+//          console.log(numberTwo);
+         
+           
+//         });
+
+//         console.log(num1);
+//         console.log(num2);
+        
+        
+
+
+ 
+ 
+// function calculate(n1,n2){
+//     btn.addEventListener("click", ()=>{
+
+//         const resultadd = n1 + n2;
+//          const resultsub = n1 - n2
+//          const resultmul = n1 * n2
+//         const resultdivide = n1 / n2
+       
+//         console.log(resultadd);
+
+//         divadd.innerText = `Add: ${resultadd}`
+//         divsub.innerText = `Subtract: ${resultsub}`
+//          divmul.innerText = `Multiply: ${resultmul}`
+//          divdivide.innerText = `Divide: ${resultdivide}`
+//     })
+// }
     
-    
+
+// calculate(num1,num2)
+   
+
+
+
    
     
+// calculate()
 
 
 

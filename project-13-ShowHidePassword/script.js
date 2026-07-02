@@ -9,6 +9,7 @@ const showpass = document.querySelector("#showPassword")
 
 showpass.addEventListener("change", function(){
 
+   
     if(this.checked){
         pass.type = "text"
 

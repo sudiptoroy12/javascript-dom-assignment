@@ -26,6 +26,7 @@ body {
   
   color: black;
   line-height: 1.7;
+  background-color: black;
 }
 
 
@@ -41,26 +42,6 @@ body {
 }
 
 
-.btn {
-  background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
-  color: white;
-  padding: 10px 7px;
-  border-radius: 0.4rem;
-  cursor: pointer;
-  border: 1px solid white;
-  transition: 0.5s;
-}
-
-.btn:hover {
-  transform: scale(1.05);
-  border-color: #b415ff;
-}
-
-.btndiv{
-
-
-    
-}
 #text{
   width: 100%;
   background-color:aliceblue;
@@ -69,4 +50,13 @@ body {
   color: black;
   padding: 10px;
   font-size: large;
+}
+.para{
+  font-size: large;
+  color: green
+  
+}
+.subpara{
+  color: aqua;
+  font-weight: bold;
 }

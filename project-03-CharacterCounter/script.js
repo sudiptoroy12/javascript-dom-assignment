@@ -18,7 +18,7 @@ textArea.addEventListener("input", ()=>{
     const words = text.trim()
 
     if(words ===  ""){
-        wordCount.textContent = 0
+        wordCount.textContent = 'Write something...'
     }
     else{
         wordCount.textContent = words.split(/\s+/).length

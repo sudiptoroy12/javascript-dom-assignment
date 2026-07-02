@@ -23,8 +23,9 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: black;
   
-  color: black;
+  color: white;
   line-height: 1.7;
 }
 
@@ -43,19 +44,26 @@ body {
 
 
 .btn {
-  background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
+  background: linear-gradient(135deg, #6a11cb , #2575fc);
   color: white;
-  padding: 10px 7px;
-  border-radius: 0.4rem;
+  padding: 12px 24px;
+  border-radius: 8px;
   cursor: pointer;
-  border: 1px solid white;
-  transition: 0.5s;
+  border: none;
+  transition: 0.53;
+  border: 2px solid #0ff;
+  box-shadow: 0 0 10px #0ff;
+  text-shadow: 0 0 5px #0ff;
+  font-size: 16px;
 }
 
 .btn:hover {
-  transform: scale(1.05);
-  border-color: #b415ff;
+  box-shadow: 0 0 15px rgba(101, 126, 255, 0.7);
+  scale: 1.05 ;
+  animation-duration: 5s;
 }
+
+
 
 .inputdiv{
   display: flex;

@@ -8,7 +8,7 @@ const resultdiv = document.querySelector("#result")
 
 
 
-const randomNumer = Math.floor(Math.random() * 10) +1
+const randomNumer = Math.floor(Math.random() * 100) +1
 
 btn.addEventListener("click", ()=>{
     
